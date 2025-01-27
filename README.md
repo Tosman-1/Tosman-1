@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django and APS
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 You can reach me on my mail omot5555@gmail.com 
-- 😄 Pronouns: we don't that here
+- 😄 Pronouns: we don't have that here
 - ⚡ Fun fact: I'm friendly 😄
 
 <!---
