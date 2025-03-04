@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Django and APS
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 You can reach me on my mail omot5555@gmail.com 
-- 😄 Pronouns: we don't have that here
+- 📫 You can reach me on my mail omot5555@gmail.com s
 - ⚡ Fun fact: I'm friendly 😄
 
 <!---
